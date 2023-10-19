@@ -1,0 +1,37 @@
+form {
+    max-width: 400px;
+    padding: 40px;
+    border: 2px solid #383434;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #5a5454;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    margin-left: 20px;
+  }
+  button{
+    margin-top: 20px;
+    margin-right: 100px;
+    background-color: rgba(204, 191, 191, 0.842);
+  }
+  .submit{
+    background-color: #373a53;
+    color: #f9f9f9;
+  }
+  
+  
